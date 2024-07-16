@@ -1,12 +1,12 @@
 Hi 👋 My name is Pavel Konkin 
 ============================= 
-Ruby on Rails developer 
+Java developer 
 -----------------------  
 * 🌍  I'm based in Moscow 
 *  🖥️  See my portfolio at [GitHub](http://github.com/PavelKonkin?tab=repositories) 
 *  ✉️  You can contact me at [https://t.me/Pavel\_Konkin\_P](mailto:https://t.me/Pavel_Konkin_P) 
-*  🚀  I'm currently working on [Third projet in Hexlet school](http://github.com/PavelKonkin/rails-project-65) 
-* 🧠  I'm learning Rails API
+*  🚀  I'm currently working on my CV
+* 🧠  I'm learning algorithms and data structures
 * 🤝  I'm open to collaborating on Open source projects
 
 ### Skills  
